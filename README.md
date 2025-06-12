@@ -8,8 +8,8 @@ You are free to share, adapt, and use the data for any purpose, including commer
 
 ## Acknowledgment of Tools
 The dataset was generated using the following open-source software:
-- **CARLA Simulator** – [MIT License]
-- **Autoware AD Stack** – [Apache License 2.0]
+- **CARLA Simulator** – [MIT License] (https://github.com/carla-simulator/carla/blob/0.9.15/LICENSE)
+- **Autoware AD Stack** – [Apache License 2.0] (https://github.com/autowarefoundation/autoware/blob/2024.01/LICENSE)
 
 These tools were used solely to generate synthetic data. The dataset itself does not contain code from CARLA or Autoware, but we gratefully acknowledge their role in enabling this work.
 
