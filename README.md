@@ -13,3 +13,18 @@ The dataset was generated using the following open-source software:
 
 These tools were used solely to generate synthetic data. The dataset itself does not contain code from CARLA or Autoware, but we gratefully acknowledge their role in enabling this work.
 
+# Citation
+If you use these in-vehicle network traces in your research or projects, please cite the following paper:
+
+> L. Lusvarghi, B. Coll-Perales, J. Gozálvez, K. Aghababaiyan, M. Almela, M. Sepulcre, “Characterization of In-Vehicle Network Sensor Data Traffic in Autonomous Vehicles,”  Proceedings of the 15th IEEE Vehicular Networking Conference (VNC 2024), 29–31 May 2024, Kobe, Japan.
+
+```bibtex
+@inproceedings{Lusvarghi2024,
+  author    = {L. Lusvarghi and B. Coll-Perales and J. Gozálvez and K. Aghababaiyan and M. Almela and M. Sepulcre},
+  title     = {Characterization of In-Vehicle Network Sensor Data Traffic in Autonomous Vehicles},
+  booktitle = {Proceedings of the 15th IEEE Vehicular Networking Conference (VNC 2024)},
+  year      = {2024},
+  month     = {May},
+  pages     = {29--31},
+  address   = {Kobe, Japan}
+}
