@@ -2,6 +2,9 @@
 This repository includes in-vehicle network data traffic generated using a Connected and Automated Mobility (CAM) platform that seamlessly combines CARLA’s realistic 3D driving environment with the autonomous driving capabilities of the Autoware AD software stack.
 
 
+... more details coming
+
+
 # License
 This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](./LICENSE).  
 You are free to share, adapt, and use the data for any purpose, including commercial use, as long as you provide appropriate credit.
